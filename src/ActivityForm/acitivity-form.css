@@ -1,0 +1,7 @@
+.message-types li:hover {
+  cursor: pointer;
+}
+
+.message-types li.active {
+  color: green;
+}
